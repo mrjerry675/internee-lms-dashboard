@@ -1,0 +1,9 @@
+{
+  "name": "Internee.pk LMS Dashboard Generator",
+  "id": "internee-lms-dashboard-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["none"] }
+}
